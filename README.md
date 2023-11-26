@@ -5,4 +5,3 @@ My name is Panagiotis Georgiadis and i am 21 years old. I study at International
 I specialize in using HTML,CSS,JS,Python and more. I have also a little experience in C++,C# and Java but i can adapt easy on everything needed. Some of my projects are Image Enhancement, Ophthalmology Application, Stock Management Store App, Minesweeper and many more which you can find in my profile.
 
 
-From now on, I will update my profile mostly with HTML,CSS,JS projects as i am interested in web developing/web design.
