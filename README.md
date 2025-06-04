@@ -1,6 +1,6 @@
 Hi there.
 
-My name is Panagiotis Georgiadis and i am 22 years old. I study  computer science at Democritus University of Thrace. I am currently in the last year of my Bachelor degree and i hope that i will end this year(2024).
+My name is Panagiotis Georgiadis and i am 23 years old. I study  computer science at Democritus University of Thrace. I am currently in the last year of my Bachelor degree and i hope that i will end this year(2024).
 
 I am a research assistant in the Machine Learning and Vision team of my university(MLV).
 
